@@ -11,3 +11,6 @@ new versions
 3.0.0.1
 master
 
+1
+2
+3
