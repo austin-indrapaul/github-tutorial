@@ -6,3 +6,5 @@ prop5
 prop6
 prop3
 
+prop3
+prop7
