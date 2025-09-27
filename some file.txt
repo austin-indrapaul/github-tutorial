@@ -7,8 +7,6 @@
 1.6.1
 1.6.2
 no need of third version
-Something new added
 new versions
 3.0.0.1
-
 new text
